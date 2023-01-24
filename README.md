@@ -1,2 +1,2 @@
 # projeto02
-https://github.com/lecristina/projeto02.github.io.git
+https://lecristina.github.io/projeto02.github.io/
